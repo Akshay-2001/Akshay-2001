@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay-2001
 - 👀 I’m interested in Aritificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking to collaborate on AI ML Projects And also Web Dev Projects
 - 📫 How to reach me : 1rn19is018.akshay.p@gmail.com
 
